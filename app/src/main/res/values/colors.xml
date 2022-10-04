@@ -12,5 +12,7 @@
     <color name = "input_register_hint">#ffffff</color>
     <color name = "point">#ffffff</color>
     <color name = "bg_main">#ffffff</color>
+    <color name = "red">#FF0000</color>
+    <color name = "main_bg_color">#00b5da</color>
 
 </resources>

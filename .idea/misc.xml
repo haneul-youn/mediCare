@@ -5,6 +5,9 @@
       <map>
         <entry key="app/src/main/res/layout/activity_main.xml" value="0.40851449275362317" />
         <entry key="app/src/main/res/layout/join.xml" value="0.335" />
+        <entry key="app/src/main/res/layout/login.xml" value="0.18333333333333332" />
+        <entry key="app/src/main/res/layout/settings.xml" value="0.20272216796874998" />
+        <entry key="app/src/main/res/xml/preferences.xml" value="0.18489583333333334" />
       </map>
     </option>
   </component>
